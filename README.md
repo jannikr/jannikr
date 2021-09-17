@@ -1,6 +1,8 @@
-### Moin 👋
+### Hello there 👋
 
 I'm a computer science student from Berlin with passion for photography and travel.
+
+- 🔭 &nbsp; I’m currently working on an Open Source Project called [Code Charta](https://github.com/MaibornWolff/codecharta)
 
 <!--
 **jannikr/jannikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
