@@ -1,12 +1,12 @@
 ### Hello there 👋
 
-I'm Jan, computer science student and developer from Berlin, Germany.
+I'm Jan, backend engineer from Berlin, Germany.
 
 - 🧭 &nbsp; Founder [@Pixellyrik](https://pixellyrik.de)
 
-- 🏗 &nbsp; Employee [@MaibornWolff](https://www.maibornwolff.de/)
+- 🏗 &nbsp; Employee [@Monta](https://monta.com)
 
-- 📚 &nbsp; Student [@Technische Hochschule Brandenburg](https://www.th-brandenburg.de/startseite/)
+- 📚 &nbsp; Alumni [@Technische Hochschule Brandenburg](https://www.th-brandenburg.de/startseite/)
 
 ## Skills
 - 👨‍💻  &nbsp; TypeScript, JavaScript, Java, Kotlin, Swift
@@ -15,7 +15,10 @@ I'm Jan, computer science student and developer from Berlin, Germany.
 
 ## Projects
 
-- 🔭 &nbsp; I worked on an Open Source Project called [Code Charta](https://github.com/MaibornWolff/codecharta) and Data Driven Applications for [CARIAD](https://cariad.technology/).
+- 🔭 &nbsp; I worked on
+  * Open Source Project called [Code Charta](https://github.com/MaibornWolff/codecharta)
+  * Marketplace for wind power sites [Caeli Wind](https://www.caeli-wind.de/home)
+  * Data Driven Services for [CARIAD](https://cariad.technology/)
 
 - 👯 &nbsp; I’m looking to collaborate on Green IT Projects.
 
