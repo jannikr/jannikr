@@ -9,9 +9,9 @@ I'm Jan, backend engineer from Berlin, Germany.
 - 📚 &nbsp; Alumni [@Technische Hochschule Brandenburg](https://www.th-brandenburg.de/startseite/)
 
 ## Skills
-- 👨‍💻  &nbsp; Kotlin, Java, TypeScript, JavaScript, Swift, PHP
+- 👨‍💻  &nbsp; Kotlin, Java, TypeScript, PHP
 
-- ⚙️  &nbsp; SpringBoot, Micronaut, Angular, Vue 
+- ⚙️  &nbsp; SpringBoot, Micronaut, Laravel, Angular, Vue 
 
 ## Projects
 
