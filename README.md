@@ -1,13 +1,13 @@
 ### Hello there 👋
 
-I'm Jan, backend engineer from Berlin.
+I'm Jan, software engineer living in Berlin.
 
-- 🧭 &nbsp; Founder [@Pixellyrik](https://pixellyrik.de)
-- 🏗 &nbsp; Employee [@Monta](https://monta.com)
-- 📚 &nbsp; Alumni [@Technische Hochschule Brandenburg](https://www.th-brandenburg.de/startseite/)
+- 🏗 &nbsp; Employee at [Monta](https://monta.com)
+- 🧭 &nbsp; Founder of [Pixellyrik](https://pixellyrik.de)
+- 📚 &nbsp; Alumni at [Technische Hochschule Brandenburg](https://www.th-brandenburg.de/startseite/)
 
 ## Skills
-- ⚙️  &nbsp; Kotlin, PHP, TypeScript (SpringBoot, Micronaut, Laravel, Angular, Vue)
+- ⚙️  &nbsp; Kotlin, PHP, SQL, TypeScript (SpringBoot, Micronaut, Laravel, Angular, Vue)
 
 ## Projects
 
@@ -16,13 +16,11 @@ I'm Jan, backend engineer from Berlin.
   * Marketplace for wind power sites [Caeli Wind](https://www.caeli-wind.de/home)
   * Data Driven Services for [CARIAD](https://cariad.technology/)
 
-- 👯 &nbsp; I’m looking to collaborate on Green IT Projects.
-<!--
+- 🍀 &nbsp; I’m looking to collaborate on Green IT Projects.
+
 ## Contact
 - [Personal Website](http://jannr.de)
 
-- [@instalyrik_](https://instagram.com/instalyrik_) on Instagram
--->
 <!--
 **jannikr/jannikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
